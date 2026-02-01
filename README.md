@@ -28,9 +28,9 @@ Hi, I’m pyhor 👋. I’m a frontend developer passionate about creating beaut
   <img src="https://img.shields.io/badge/REACT-0EA5E9?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/TYPESCRIPT-2563EB?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+  <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=7C7C7C&center=true&vCenter=true&width=600&lines=React+Frontend;Tailwind+Design;TypeScript+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=7C7C7C&center=true&vCenter=true&width=600&lines=React+Frontend;Tailwind+Design;TypeScript+Code;Bootstrap+UI" />
 </p>
-
