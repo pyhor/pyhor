@@ -20,10 +20,16 @@ Hi, I’m pyhor 👋. I’m a junior frontend developer passionate about creatin
 
 - 🌱 I’m currently learning 
 - 📫 How to reach me: pyhor9657@gmail.com
+- 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: life is good
 
-<hr>
+- 🌱 I’m currently learning
+- 📫 How to reach me: pyhor9657@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/pei-yu-hor-9b3539265/)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: life is good
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-8A2BE2?style=for-the-badge&logo=php&logoColor=white" />
