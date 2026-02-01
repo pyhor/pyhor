@@ -23,3 +23,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/TYPESCRIPT-2563EB?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
 </p>
+
+
+![PHP](https://img.shields.io/badge/PHP-8A2BE2?style=for-the-badge&logo=php&logoColor=white)
