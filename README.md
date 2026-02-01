@@ -64,3 +64,12 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JUST%20THE%20MESSAGE-111827?style=for-the-badge" />
 </p>
 
+
+
+![PHP](https://img.shields.io/badge/PHP-8A2BE2?style=for-the-badge&logo=php&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/REACT-0EA5E9?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-2563EB?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+
+
