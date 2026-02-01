@@ -16,60 +16,10 @@ Here are some ideas to get you started:
 -->
  hi
 
-![PHP](https://img.shields.io/badge/Built%20with-PHP-777BB4?logo=php\&logoColor=white)
-
-![Just the message](https://img.shields.io/badge/just%20the%20message-8A2BE2)
-
-![PHP](https://img.shields.io/badge/PHP-8A2BE2?style=for-the-badge&logo=php&logoColor=white)
-
-
-
-![PHP](https://img.shields.io/badge/PHP-8A2BE2)
-
-![PHP](https://img.shields.io/badge/PHP-8A2BE2?style=for-the-badge)
-
-
-
-![TAILWIND](https://badgen.net/badge/TAILWIND-8A2BE2)
-
-![REACT](https://badgen.net/badge/REACT-8A2BE2)
-
-
-
-![Status](https://badge.fury.io/js/status.svg)
-
-![Just the message](https://img.shields.io/badge/JUST%20THE%20MESSAGE-000000?style=for-the-badge)
-
-![Just the message](https://img.shields.io/badge/JUST%20THE%20MESSAGE-4B5563?style=for-the-badge)
-
-![Just the message](https://img.shields.io/badge/JUST%20THE%20MESSAGE-4B5563?style=for-the-badge)
-
-<h1 align="center">pyhor</h1>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/JUST%20THE%20MESSAGE-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PHP-8A2BE2?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/REACT-0EA5E9?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-2563EB?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
 </p>
-
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JUST%20THE%20MESSAGE-000000?style=for-the-badge" />
-</p>
-
-
-
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JUST%20THE%20MESSAGE-111827?style=for-the-badge" />
-</p>
-
-
-
-![PHP](https://img.shields.io/badge/PHP-8A2BE2?style=for-the-badge&logo=php&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/REACT-0EA5E9?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TYPESCRIPT-2563EB?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-
-
