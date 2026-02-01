@@ -31,5 +31,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=000000&center=true&vCenter=true&width=600&lines=PHP+Developer;React+Frontend;Tailwind+Design;TypeScript+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=000000&center=true&vCenter=true&width=600&lines=React+Frontend;Tailwind+Design;TypeScript+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=ffffff&center=true&vCenter=true&width=600&lines=React+Frontend;Tailwind+Design;TypeScript+Code" />
 </p>
+
