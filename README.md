@@ -26,4 +26,6 @@ Here are some ideas to get you started:
 
 
 
-![PHP](https://media.giphy.com/media/your-gif-url.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
+</p>
