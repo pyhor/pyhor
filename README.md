@@ -20,3 +20,34 @@ Here are some ideas to get you started:
 
 ![Just the message](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 
+
+![Just the message](https://badgen.net/badge/just%20the%20message/8A2BE2)
+
+![Status](https://badge.fury.io/js/status.svg)
+
+![Just the message](https://img.shields.io/badge/JUST%20THE%20MESSAGE-000000?style=for-the-badge)
+
+![Just the message](https://img.shields.io/badge/JUST%20THE%20MESSAGE-4B5563?style=for-the-badge)
+
+![Just the message](https://img.shields.io/badge/JUST%20THE%20MESSAGE-4B5563?style=for-the-badge)
+
+<h1 align="center">pyhor</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JUST%20THE%20MESSAGE-000000?style=for-the-badge" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JUST%20THE%20MESSAGE-000000?style=for-the-badge" />
+</p>
+
+
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JUST%20THE%20MESSAGE-111827?style=for-the-badge" />
+</p>
+
