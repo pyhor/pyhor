@@ -24,7 +24,7 @@ Hi, I’m pyhor 👋. I’m a junior frontend developer passionate about creatin
 - ⚡ Fun fact: life is good
 
 <p align="center">
-  <img src="./assets/line-thin.svg" />
+  <img src="https://raw.githubusercontent.com/pyhor/pyhor/main/assets/line-thin.svg" />
 </p>
 
 <p align="center">
