@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 
 ![PHP](https://img.shields.io/badge/Built%20with-PHP-777BB4?logo=php\&logoColor=white)
 
-https://img.shields.io/badge/just%20the%20message-8A2BE2
+![Just the message](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+
