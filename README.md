@@ -23,12 +23,24 @@ Hi, I’m pyhor 👋. I’m a frontend developer passionate about creating beaut
 - ⚡ Fun fact: life is good
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PHP-8A2BE2?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/REACT-0EA5E9?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-2563EB?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
-  <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <a href="https://github.com/pyhor/your-php-project" target="_blank">
+    <img src="https://img.shields.io/badge/PHP-8A2BE2?style=for-the-badge&logo=php&logoColor=white" />
+  </a>
+  <a href="https://github.com/pyhor/your-tailwind-project" target="_blank">
+    <img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  </a>
+  <a href="https://github.com/pyhor/blablabla" target="_blank">
+    <img src="https://img.shields.io/badge/REACT-0EA5E9?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <a href="https://github.com/pyhor/your-ts-project" target="_blank">
+    <img src="https://img.shields.io/badge/TYPESCRIPT-2563EB?style=for-the-badge&logo=typescript&logoColor=white" />
+  </a>
+  <a href="https://github.com/pyhor/your-js-project" target="_blank">
+    <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+  </a>
+  <a href="https://github.com/pyhor/your-bootstrap-project" target="_blank">
+    <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
