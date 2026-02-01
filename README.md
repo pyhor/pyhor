@@ -43,7 +43,9 @@ Hi, I’m pyhor 👋. I’m a frontend developer passionate about creating beaut
   </a>
 </p>
 
-<p align="center"><em>*Click badges for projects.*</em></p>
+<p align="center">
+  <sub>*Click badges for projects.*</sub>
+</p>
 
 <p align="center">
   <a href="https://github.com/pyhor/pyhor" target="_blank">
