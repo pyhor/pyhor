@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
  hi
 
-
-- 🌱 I’m currently learning ...
 - 📫 How to reach me: pyhor9657@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: life is good
+
+  
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-8A2BE2?style=for-the-badge&logo=php&logoColor=white" />
@@ -28,4 +28,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/REACT-0EA5E9?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/TYPESCRIPT-2563EB?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=000000&center=true&vCenter=true&width=600&lines=PHP+Developer;React+Frontend;Tailwind+Design;TypeScript+Code" />
 </p>
