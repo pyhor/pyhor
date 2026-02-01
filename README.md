@@ -42,7 +42,7 @@ Hi, I’m pyhor 👋. I’m a frontend developer passionate about creating beaut
     <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   </a>
   <br>
-   <sub>*Click badges for projects.*</sub>
+   <sub><i>*Click badges for projects.*</i></sub>
 </p>
 
 <p align="center">
