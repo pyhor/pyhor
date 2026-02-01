@@ -24,9 +24,10 @@ Hi, I’m pyhor 👋. I’m a junior frontend developer passionate about creatin
 - ⚡ Fun fact: life is good
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKy3eYqZ8L0kz9G/giphy.gif" width="600" />
+  <img src="https://cdn.jsdelivr.net/gh/ashutosh1919/Personal-Portfolio-Website@master/src/assets/line.svg" />
 </p>
 
+<hr>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-8A2BE2?style=for-the-badge&logo=php&logoColor=white" />
