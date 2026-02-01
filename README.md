@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 
 ![PHP](https://img.shields.io/badge/PHP-8A2BE2)
 
+![PHP](https://img.shields.io/badge/PHP-8A2BE2?style=for-the-badge)
+
+
 
 ![TAILWIND](https://badgen.net/badge/TAILWIND-8A2BE2)
 
