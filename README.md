@@ -41,10 +41,8 @@ Hi, I’m pyhor 👋. I’m a frontend developer passionate about creating beaut
   <a href="https://github.com/pyhor/your-bootstrap-project" target="_blank">
     <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <sub>*Click badges for projects.*</sub>
+  <br>
+   <sub>*Click badges for projects.*</sub>
 </p>
 
 <p align="center">
