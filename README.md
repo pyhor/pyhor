@@ -29,7 +29,7 @@ Hi, I’m pyhor 👋. I’m a frontend developer passionate about creating beaut
   <a href="https://github.com/pyhor/your-tailwind-project" target="_blank">
     <img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   </a>
-  <a href="https://github.com/pyhor/blablabla" target="_blank">
+  <a href="https://github.com/pyhor/hotelweb-demo" target="_blank">
     <img src="https://img.shields.io/badge/REACT-0EA5E9?style=for-the-badge&logo=react&logoColor=white" />
   </a>
   <a href="https://github.com/pyhor/your-ts-project" target="_blank">
