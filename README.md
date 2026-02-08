@@ -32,7 +32,7 @@ Hi, I’m pyhor 👋. I’m a frontend developer passionate about creating beaut
   <a href="https://github.com/pyhor/hotelweb-demo" target="_blank">
     <img src="https://img.shields.io/badge/REACT-0EA5E9?style=for-the-badge&logo=react&logoColor=white" />
   </a>
-  <a href="https://github.com/pyhor/your-ts-project" target="_blank">
+  <a href="https://github.com/pyhor/hotelweb-demo" target="_blank">
     <img src="https://img.shields.io/badge/TYPESCRIPT-2563EB?style=for-the-badge&logo=typescript&logoColor=white" />
   </a>
   <a href="https://github.com/pyhor/your-js-project" target="_blank">
