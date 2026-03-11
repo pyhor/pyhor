@@ -41,12 +41,15 @@ Hi, I’m pyhor 👋. I’m a frontend developer passionate about creating beaut
   <a href="https://github.com/pyhor/your-bootstrap-project" target="_blank">
     <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   </a>
+   <a href="https://github.com/pyhor/your-fastapi-project" target="_blank">
+    <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  </a>
   <br>
    <sub><i>*Click badges for projects.*</i></sub>
 </p>
 
 <p align="center">
   <a href="https://github.com/pyhor/pyhor" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=7C7C7C&center=true&vCenter=true&width=600&lines=React+Frontend;Tailwind+Design;TypeScript+Code;Bootstrap+UI" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=7C7C7C&center=true&vCenter=true&width=600&lines=React+Frontend;Tailwind+Design;TypeScript+Code;Bootstrap+UI;FastAPI+Backend" />
   </a>
 </p>
