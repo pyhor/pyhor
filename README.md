@@ -38,9 +38,9 @@ Hi, I’m pyhor 👋. I’m a frontend developer passionate about creating beaut
   <a href="https://github.com/pyhor/your-js-project" target="_blank">
     <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
   </a>
-  <a href="https://github.com/pyhor/your-bootstrap-project" target="_blank">
+  <!-- <a href="https://github.com/pyhor/your-bootstrap-project" target="_blank">
     <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  </a>
+  </a> -->
    <a href="https://github.com/pyhor/your-fastapi-project" target="_blank">
     <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   </a>
