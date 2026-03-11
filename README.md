@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Hi, I’m pyhor 👋. I’m a frontend developer passionate about creating beautiful interfaces ✨ and intuitive user experiences. I build projects with React ⚛️, TypeScript 💙, and Tailwind CSS 🎨.
 
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning FastAPI
 - 📫 How to reach me: pyhor9657@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/pei-yu-hor-9b3539265/
 - 😄 Pronouns: she/her
