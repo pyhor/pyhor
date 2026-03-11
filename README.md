@@ -23,7 +23,7 @@ Hi, I’m pyhor 👋. I’m a frontend developer passionate about creating beaut
 - ⚡ Fun fact: life is good
 
 <p align="center">
-  <a href="https://github.com/pyhor/your-php-project" target="_blank">
+  <a href="https://github.com/pyhor/cinema-mgmt-system-2020" target="_blank">
     <img src="https://img.shields.io/badge/PHP-8A2BE2?style=for-the-badge&logo=php&logoColor=white" />
   </a>
   <a href="https://github.com/pyhor/your-tailwind-project" target="_blank">
@@ -35,7 +35,7 @@ Hi, I’m pyhor 👋. I’m a frontend developer passionate about creating beaut
   <a href="https://github.com/pyhor/hotelweb-demo" target="_blank">
     <img src="https://img.shields.io/badge/TYPESCRIPT-2563EB?style=for-the-badge&logo=typescript&logoColor=white" />
   </a>
-  <a href="https://github.com/pyhor/your-js-project" target="_blank">
+  <a href="https://github.com/pyhor/cinema-mgmt-system-2020" target="_blank">
     <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
   </a>
   <!-- <a href="https://github.com/pyhor/your-bootstrap-project" target="_blank">
