@@ -23,26 +23,20 @@ Hi, I’m pyhor 👋. I’m a frontend developer passionate about creating beaut
 - ⚡ Fun fact: life is good
 
 <p align="center">
-  <a href="https://github.com/pyhor/cinema-mgmt-system-2020" target="_blank">
-    <img src="https://img.shields.io/badge/PHP-8A2BE2?style=for-the-badge&logo=php&logoColor=white" />
-  </a>
-  <a href="https://github.com/pyhor/your-tailwind-project" target="_blank">
-    <img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  </a>
-  <a href="https://github.com/pyhor/hotelweb-demo" target="_blank">
-    <img src="https://img.shields.io/badge/REACT-0EA5E9?style=for-the-badge&logo=react&logoColor=white" />
-  </a>
-  <a href="https://github.com/pyhor/hotelweb-demo" target="_blank">
-    <img src="https://img.shields.io/badge/TYPESCRIPT-2563EB?style=for-the-badge&logo=typescript&logoColor=white" />
+<a href="https://github.com/pyhor/cinema-mgmt-system-2020" target="_blank">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   </a>
   <a href="https://github.com/pyhor/hotel-website-2023" target="_blank">
-    <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   </a>
-  <!-- <a href="https://github.com/pyhor/your-bootstrap-project" target="_blank">
-    <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  </a> -->
-   <a href="https://github.com/pyhor/your-fastapi-project" target="_blank">
-    <img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <a href="https://github.com/pyhor/hotel-website-2023" target="_blank">
+    <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>
+  <a href="https://github.com/pyhor/ticketing-system-2024" target="_blank">
+    <img src="https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  </a>
+  <a href="https://github.com/pyhor/vet-mgmt-system-2024" target="_blank">
+    <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   </a>
   <br>
    <sub><i>*Click badges for projects.*</i></sub>
