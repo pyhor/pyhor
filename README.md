@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Hi, I’m pyhor 👋. I’m a frontend developer passionate about creating beautiful interfaces ✨ and intuitive user experiences. I build projects with React ⚛️, TypeScript 💙, and Tailwind CSS 🎨.
 
-- 🌱 I’m currently learning FastAPI
+ <!-- - 🌱 I’m currently learning FastAPI -->
 - 📫 How to reach me: pyhor9657@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/pei-yu-hor-9b3539265/
 - 😄 Pronouns: she/her
@@ -32,9 +32,12 @@ Hi, I’m pyhor 👋. I’m a frontend developer passionate about creating beaut
   <a href="https://github.com/pyhor/hotel-website-2023" target="_blank">
     <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   </a>
+    <!--
   <a href="https://github.com/pyhor/ticketing-system-2024" target="_blank">
     <img src="https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
   </a>
+-->
+    
   <a href="https://github.com/pyhor/vet-mgmt-system-2024" target="_blank">
     <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   </a>
@@ -42,8 +45,11 @@ Hi, I’m pyhor 👋. I’m a frontend developer passionate about creating beaut
    <sub><i>*Click badges for projects.*</i></sub>
 </p>
 
+
+<!-- -
 <p align="center">
   <a href="https://github.com/pyhor/pyhor" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=7C7C7C&center=true&vCenter=true&width=600&lines=React+Frontend;Tailwind+Design;TypeScript+Code;Bootstrap+UI;FastAPI+Backend" />
   </a>
 </p>
+-->
