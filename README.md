@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I’m pyhor 👋. I’m a frontend developer passionate about creating beautiful interfaces ✨ and intuitive user experiences. I build projects with React ⚛️, TypeScript 💙, and Tailwind CSS 🎨.
+Hi, I’m pyhor 👋. 
+
+<!--
+I’m a frontend developer passionate about creating beautiful interfaces ✨ and intuitive user experiences. I build projects with React ⚛️, TypeScript 💙, and Tailwind CSS 🎨.
+-->
 
  <!-- - 🌱 I’m currently learning FastAPI -->
 - 📫 How to reach me: pyhor9657@gmail.com
