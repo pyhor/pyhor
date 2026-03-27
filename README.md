@@ -24,7 +24,7 @@ I’m a frontend developer passionate about creating beautiful interfaces ✨ an
 - 📫 How to reach me: pyhor9657@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/pei-yu-hor-9b3539265/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: life is good
+- ⚡ Fun fact: life is good 😀
 
 <p align="center">
 <a href="https://github.com/pyhor/cinema-mgmt-system-2020" target="_blank">
