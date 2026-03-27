@@ -41,10 +41,11 @@ I’m a frontend developer passionate about creating beautiful interfaces ✨ an
     <img src="https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
   </a>
 -->
-    
+    <!-- 
   <a href="https://github.com/pyhor/vet-mgmt-system-2024" target="_blank">
     <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   </a>
+ -->
   <br>
    <sub><i>*Click badges for projects.*</i></sub>
 </p>
