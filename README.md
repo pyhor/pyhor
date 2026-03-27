@@ -61,6 +61,6 @@ I’m a frontend developer passionate about creating beautiful interfaces ✨ an
 
 <p align="center">
   <a href="https://github.com/pyhor/pyhor" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=7C7C7C&center=true&vCenter=true&width=600&lines=PHP;Javascript+Design;HTML+Code" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=7C7C7C&center=true&vCenter=true&width=700&lines=PHP+Developer;JavaScript+%26+Web+Development;MySQL+%7C+Projects;Building+Modern+Web+Applications" />
   </a>
 </p>
