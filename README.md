@@ -23,7 +23,7 @@ I’m a frontend developer passionate about creating beautiful interfaces ✨ an
 📫 **Email:** pyhor9657@gmail.com  
 🌐 **Portfolio:** [pyhor.github.io/portfolio-project](https://pyhor.github.io/portfolio-project/)  
 💼 **LinkedIn:** [linkedin.com/in/pei-yu-hor-9b3539265](https://www.linkedin.com/in/pei-yu-hor-9b3539265/)  
-😄 **Pronouns:** she/her  
+<!-- 😄 **Pronouns:** she/her --> 
 ⚡ **Fun fact:** Life is good. 😀
 
 <!-- <p align="center"> -->
