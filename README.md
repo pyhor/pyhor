@@ -20,10 +20,11 @@ I’m a frontend developer passionate about creating beautiful interfaces ✨ an
 -->
 
  <!-- - 🌱 I’m currently learning FastAPI -->
-- 📫 How to reach me: pyhor9657@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/pei-yu-hor-9b3539265/
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: life is good 😀
+📫 **Email:** pyhor9657@gmail.com  
+🌐 **Portfolio:** [pyhor.github.io/portfolio-project](https://pyhor.github.io/portfolio-project/)  
+💼 **LinkedIn:** [linkedin.com/in/pei-yu-hor-9b3539265](https://www.linkedin.com/in/pei-yu-hor-9b3539265/)  
+😄 **Pronouns:** she/her  
+⚡ **Fun fact:** Life is good. 😀
 
 <!-- <p align="center"> -->
 <!-- <a href="https://github.com/pyhor/cinema-mgmt-system-2020" target="_blank">
@@ -107,7 +108,6 @@ I’m a frontend developer passionate about creating beautiful interfaces ✨ an
 
 </p>
 
-
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=pyhor&label=Profile%20Views&color=8B5CF6&style=for-the-badge"/>
@@ -121,34 +121,29 @@ I’m a frontend developer passionate about creating beautiful interfaces ✨ an
 
 Hello! I'm **Pei Yu Hor (pyhor)** 👋
 
-I am a **Frontend Developer** and **Information Systems graduate** from **Tunku Abdul Rahman University of Management and Technology (TAR UMT)** with a degree in **Information Systems (Enterprise Information Systems)**.
+- Currently working as a Frontend Developer, building modern, responsive, and user-friendly web applications
+- Information Systems graduate from **[Tunku Abdul Rahman University of Management and Technology (TAR UMT)](https://www.tarc.edu.my/)**, specializing in **Enterprise Information Systems**
+- Experienced in frontend development, API integration, reusable component design, and practical software solutions
+- Passionate about improving user experience, application performance, and modern development workflows
 
-I enjoy designing and developing modern web applications with a focus on:
+### Tech Stack
 
-- Clean and maintainable frontend architecture
-- Responsive user interfaces
-- Practical software solutions
-- User-focused product experiences
-- Enterprise application development
+- **Frontend:** React.js, TypeScript, JavaScript, HTML5, CSS, Tailwind CSS
+- **Backend:** PHP, MySQL, SQL
+- **DevOps:** REST API, Fetch API, Jenkins CI/CD
 
-My primary development experience includes **React.js, JavaScript, HTML5, CSS, PHP, MySQL, and SQL-based systems**.
+Currently exploring **Flutter development** to expand my mobile development skills.
 
-I am passionate about continuous learning and currently exploring **Flutter development** to expand my mobile application development skills.
-
-I believe good software combines:
-
-> Engineering quality + User experience + Business understanding
-
+> Focused on engineering excellence, seamless user experiences, and building solutions aligned with business goals.
 
 ### Open To
 
-- 💼 Full-time Frontend Developer opportunities
-- 🌎 Freelance projects
+- 💼 Frontend Developer roles
+- 🌎 Freelance opportunities
 - 🤝 Open-source collaboration
-- 🚀 Building scalable web applications
-- 🌐 Portfolio: https://pyhor.github.io/portfolio-project/
+- 🚀 Scalable web application projects
 
----
+<!--
 
 # Portfolio Website
 
@@ -172,48 +167,45 @@ Explore my personal portfolio website showcasing my projects, skills, experience
 
 </p>
 
+-->
+
 ---
 
 # Tech Stack
 
-## Languages
+<table align="center">
+<tr>
 
-<p>
+<td align="center">
+<b>Core Languages</b><br>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,php"/>
+</td>
 
-<img src="https://skillicons.dev/icons?i=javascript,html,css,php,sql"/>
-
-</p>
-
-
-## Frontend
-
-<p>
-
+<td align="center">
+<b>Frontend Frameworks & UI Libraries</b><br>
 <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind"/>
+</td>
 
-</p>
+<td align="center">
+<b>Backend & Runtime Technologies</b><br>
+<img src="https://skillicons.dev/icons?i=php,mysql"/>
+</td>
 
-
-## Backend & Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,php"/>
-
-</p>
-
-
-## Cloud, DevOps & Tooling
-
-<p>
-
+<td align="center">
+<b>Version Control & Developer Tools</b><br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</td>
 
-</p>
+<td align="center">
+<b>DevOps & Deployment</b><br>
+<img src="https://skillicons.dev/icons?i=git,github,jenkins"/>
+</td>
+
+</tr>
+</table>
 
 
----
-
+<!--
 # AI / ML Expertise
 
 | Domain | Proficiency | Details |
@@ -221,12 +213,11 @@ Explore my personal portfolio website showcasing my projects, skills, experience
 | Artificial Intelligence | Learning | Exploring future AI integration possibilities |
 | Machine Learning | Beginner | Currently planning future learning path |
 | AI Application Development | Exploring | Interested in intelligent software solutions |
-
+-->
 
 ---
 
 # Featured Projects
-
 
 <details>
 <summary><b>🎬 Cinema Management System</b></summary>
@@ -245,7 +236,6 @@ A cinema management system developed to manage cinema operations and improve wor
 | Repository | https://github.com/pyhor/cinema-mgmt-system-2020 |
 
 </details>
-
 
 <details>
 <summary><b>🏨 Hotel Website</b></summary>
@@ -275,7 +265,6 @@ More professional projects and open-source contributions will be added soon.
 
 </details>
 
-
 ---
 
 # Experience
@@ -284,20 +273,19 @@ More professional projects and open-source contributions will be added soon.
 
 **2025 - Present**
 
-Building modern web experiences with frontend technologies.
+Developing modern web applications with a focus on responsive UI, frontend performance, and API integration.
 
 ### Scope Of Work
 
-- Develop responsive user interfaces
-- Build reusable frontend components
-- Improve user experience and accessibility
-- Work with modern JavaScript technologies
-- Create maintainable application structures
+- Develop responsive web applications using React.js and TypeScript
+- Build reusable UI components with Tailwind CSS and Bootstrap
+- Integrate REST APIs using the Fetch API
+- Manage deployments with Node.js, PM2, and Termius
+- Work with Jenkins CI/CD pipelines and Git workflows
 
 ### Skills
 
-`React.js` `JavaScript` `HTML5` `CSS3` `MySQL` `Git`
-
+`React.js` `TypeScript` `Tailwind CSS` `REST API Integration` `Git` `Jenkins` `Deployment`
 
 ---
 
@@ -313,32 +301,28 @@ Building modern web experiences with frontend technologies.
 
 </div>
 
-
----
-
+<!--
 # Certifications
 
 ## AWS
 
 Coming soon
 
-
 ## Oracle
 
 Coming soon
-
 
 ## NPTEL
 
 Coming soon
 
-
 ## Cisco
 
 Coming soon
+-->
 
 
----
+<!--
 
 # Coding Profiles
 
@@ -353,6 +337,8 @@ Coming soon
 <img src="https://img.shields.io/badge/CodeChef-Future%20Profile-7C3AED?style=for-the-badge"/>
 
 </p>
+
+-->
 
 
 ---
