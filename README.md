@@ -124,7 +124,7 @@ Hello! I'm **Pei Yu Hor (pyhor)** 👋
 - Frontend Developer building modern, responsive, and user-focused web applications
 - Information Systems graduate from **[Tunku Abdul Rahman University of Management and Technology (TAR UMT)](https://www.tarc.edu.my/)**, specializing in **Enterprise Information Systems**
 - Experienced in React.js, TypeScript, API integration, reusable components, and scalable frontend solutions
-- Passionate about clean architecture, performance optimization, and improving user experiences
+<!-- - Passionate about clean architecture, performance optimization, and improving user experiences -->
 
 ### Tech Stack
 
