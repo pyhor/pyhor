@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi, I’m pyhor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
 
 <!--
 **pyhor/pyhor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I’m pyhor 👋. 
 
 <!--
 I’m a frontend developer passionate about creating beautiful interfaces ✨ and intuitive user experiences. I build projects with React ⚛️, TypeScript 💙, and Tailwind CSS 🎨.
@@ -67,15 +66,10 @@ I’m a frontend developer passionate about creating beautiful interfaces ✨ an
   </a>
 </p>-->
 
-
 ---
 
-
-# Hi, I'm pyhor 👋
-
+# About Me
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,12,18&text=Pei%20Yu%20Hor&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React.js%20Developer%20%7C%20Enterprise%20Information%20Systems&descAlignY=60&descAlign=50" width="70%" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=500&lines=Frontend+Developer;React.js+Developer;Building+Modern+Web+Applications;Information+Systems+Graduate;Learning+Flutter+Development" />
 
@@ -124,10 +118,6 @@ I’m a frontend developer passionate about creating beautiful interfaces ✨ an
 
 </p>
 
-
----
-
-# About Me
 
 Hello! I'm **Pei Yu Hor (pyhor)** 👋
 
@@ -419,7 +409,7 @@ Coming soon
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/pyhor/pyhor/gh-pages/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/pyhor/pyhor/gh-pages/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
