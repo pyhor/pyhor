@@ -121,10 +121,10 @@ I’m a frontend developer passionate about creating beautiful interfaces ✨ an
 
 Hello! I'm **Pei Yu Hor (pyhor)** 👋
 
-- Currently working as a Frontend Developer, building modern, responsive, and user-friendly web applications
+- Frontend Developer building modern, responsive, and user-focused web applications
 - Information Systems graduate from **[Tunku Abdul Rahman University of Management and Technology (TAR UMT)](https://www.tarc.edu.my/)**, specializing in **Enterprise Information Systems**
-- Experienced in frontend development, API integration, reusable component design, and practical software solutions
-- Passionate about improving user experience, application performance, and modern development workflows
+- Experienced in React.js, TypeScript, API integration, reusable components, and scalable frontend solutions
+- Passionate about clean architecture, performance optimization, and improving user experiences
 
 ### Tech Stack
 
@@ -132,16 +132,15 @@ Hello! I'm **Pei Yu Hor (pyhor)** 👋
 - **Backend:** PHP, MySQL, SQL
 - **DevOps:** REST API, Fetch API, Jenkins CI/CD
 
-Currently exploring **Flutter development** to expand my mobile development skills.
+Currently exploring **Flutter** to expand my mobile development skills.
 
-> Focused on engineering excellence, seamless user experiences, and building solutions aligned with business goals.
+> Building reliable software solutions with a focus on technical quality, user experience, and business impact.
 
 ### Open To
 
-- 💼 Frontend Developer roles
-- 🌎 Freelance opportunities
-- 🤝 Open-source collaboration
-- 🚀 Scalable web application projects
+- 💼 Frontend Developer opportunities
+- 🤝 Collaboration and open-source projects
+- 🚀 Building scalable web applications
 
 <!--
 
