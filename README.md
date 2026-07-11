@@ -156,7 +156,31 @@ I believe good software combines:
 - 🌎 Freelance projects
 - 🤝 Open-source collaboration
 - 🚀 Building scalable web applications
+- 🌐 Portfolio: https://pyhor.github.io/portfolio-project/
 
+---
+
+# Portfolio Website
+
+<p align="center">
+
+<a href="https://pyhor.github.io/portfolio-project/" target="_blank">
+
+<img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-8B5CF6?style=for-the-badge&logo=firefox&logoColor=white"/>
+
+</a>
+
+</p>
+
+<p align="center">
+
+Explore my personal portfolio website showcasing my projects, skills, experience, and frontend development journey.
+
+<br>
+
+🌐 **Live Website:**  https://pyhor.github.io/portfolio-project/
+
+</p>
 
 ---
 
