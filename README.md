@@ -368,7 +368,7 @@ Coming soon
 
 ---
 
-# GitHub Trophies
+# GitHub Achievements
 
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80"/>
