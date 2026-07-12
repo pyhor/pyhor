@@ -351,10 +351,22 @@ Coming soon
 </p> -->
 
 
+
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pyhor&theme=tokyonight&hide_border=true&background=0D1117"/>
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=pyhor&theme=tokyonight&hide_border=true&background=0D1117"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=pyhor&theme=default&hide_border=true"
+    />
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com/?user=pyhor&theme=default&hide_border=true"
+      alt="GitHub Streak"
+    />
+  </picture>
 </p>
 
 
@@ -382,9 +394,20 @@ Coming soon
 # Contribution Activity
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pyhor&theme=tokyo-night&hide_border=true"/>
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=pyhor&theme=tokyo-night&hide_border=true"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=pyhor&theme=github-light&hide_border=true"
+    />
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=pyhor&theme=github-light&hide_border=true"
+      alt="Contribution Activity Graph"
+    />
+  </picture>
 </p>
 
 
