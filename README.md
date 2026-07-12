@@ -78,12 +78,12 @@ I’m a frontend developer passionate about creating beautiful interfaces ✨ an
 
 <p align="center">
 
-<a href="https://www.tarc.edu.my/">
-<img src="https://img.shields.io/badge/Enterprise%20Information%20Systems-Graduate-4F46E5?style=for-the-badge&logo=academia&logoColor=white"/>
+<a href="https://www.tarc.edu.my/" target="_blank">
+  <img src="https://img.shields.io/badge/Enterprise%20Information%20Systems-Graduate-4F46E5?style=for-the-badge&logo=academia&logoColor=white"/>
 </a>
 
-<a>
-<img src="https://img.shields.io/badge/Location-Kuala%20Lumpur%2C%20Malaysia-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<a href="https://www.google.com/search?q=Kuala+Lumpur+Malaysia" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Location-Kuala%20Lumpur%2C%20Malaysia-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </a>
 
 </p>
