@@ -393,9 +393,20 @@ Coming soon
 # Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/pyhor/pyhor/gh-pages/github-contribution-grid-snake-dark.svg"/>
-
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github.com/pyhor/pyhor/blob/gh-pages/github-contribution-grid-snake-dark.svg?raw=true"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github.com/pyhor/pyhor/blob/gh-pages/github-contribution-grid-snake.svg?raw=true"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://github.com/pyhor/pyhor/blob/gh-pages/github-contribution-grid-snake.svg?raw=true"
+    />
+  </picture>
 </p>
 
 
