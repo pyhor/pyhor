@@ -195,10 +195,10 @@ Explore my personal portfolio website showcasing my projects, skills, experience
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </td>
 
-<td align="center">
+<!-- <td align="center">
 <b>DevOps & Deployment</b><br>
 <img src="https://skillicons.dev/icons?i=git,github,jenkins"/>
-</td>
+</td> -->
 
 </tr>
 </table>
