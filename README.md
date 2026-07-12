@@ -344,14 +344,6 @@ Coming soon
 
 # GitHub Analytics
 
-<!-- <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pyhor&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6"/>
-
-</p> -->
-
-
-
 <p align="center">
   <picture>
     <source
