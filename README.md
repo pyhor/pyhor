@@ -130,7 +130,7 @@ Hello! I'm **Pei Yu Hor (pyhor)** 👋
 
 - **Frontend:** React.js, TypeScript, JavaScript, HTML5, CSS, Tailwind CSS
 - **Backend:** PHP, MySQL, SQL
-- **DevOps:** REST API, Fetch API, Jenkins CI/CD
+<!-- - **DevOps:** REST API, Fetch API, Jenkins CI/CD -->
 
 Currently exploring **Flutter** to expand my mobile development skills.
 
