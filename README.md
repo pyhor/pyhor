@@ -279,8 +279,8 @@ Developing modern web applications with a focus on responsive UI, frontend perfo
 - Develop responsive web applications using React.js and TypeScript
 - Build reusable UI components with Tailwind CSS and Bootstrap
 - Integrate REST APIs using the Fetch API
-- Manage deployments with Node.js, PM2, and Termius
 - Work with Jenkins CI/CD pipelines and Git workflows
+<!-- - Manage deployments with Node.js, PM2, and Termius -->
 
 ### Skills
 
